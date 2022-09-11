@@ -2,6 +2,11 @@ body {
   margin: 0;
 }
 
+ul {
+  display: flex;
+  list-style-type: none;
+}
+
 .hero {
   background-color: #222831;
   color: white;
