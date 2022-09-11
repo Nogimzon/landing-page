@@ -6,3 +6,8 @@ body {
   background-color: #222831;
   color: white;
 }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
