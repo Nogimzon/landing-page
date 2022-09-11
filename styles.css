@@ -7,6 +7,10 @@ ul {
   list-style-type: none;
 }
 
+a {
+  text-decoration: none;
+}
+
 .hero {
   background-color: #222831;
   color: white;
