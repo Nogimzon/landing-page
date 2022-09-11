@@ -20,3 +20,8 @@ a {
   display: flex;
   justify-content: space-between;
 }
+
+.header a, .introduction .text {
+  color: #e5e7eb;
+  font-size: 18px;
+}
