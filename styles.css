@@ -19,6 +19,7 @@ a {
 .header {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   color: #f9faf8;
   font-size: 24px;
 }
