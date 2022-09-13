@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 ul {
@@ -28,7 +29,6 @@ a {
   justify-content: space-between;
   align-items: center;
   color: #f9faf8;
-  font-family: Arial, Helvetica, sans-serif;
   font-size: 24px;
   font-weight: 800;
 }
