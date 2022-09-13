@@ -21,7 +21,7 @@ a {
 }
 
 .hero {
-  padding: 0 150px;
+  padding: 24px 150px 48px 150px;
 }
 
 .header {
@@ -35,9 +35,16 @@ a {
 
 .introduction {
   display: flex;
+  margin-top: 48px;
 }
 
 .header a, .introduction .text-secondary {
   color: #e5e7eb;
   font-size: 18px;
+}
+
+.text-button h1 {
+  font-size: 48px;
+  font-weight: 1000;
+  margin: 0
 }
