@@ -19,12 +19,18 @@ a {
   color: white;
 }
 
+.hero {
+  padding: 0 150px;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   color: #f9faf8;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 24px;
+  font-weight: 800;
 }
 
 .header a, .introduction .text {
