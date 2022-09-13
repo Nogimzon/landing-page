@@ -41,10 +41,11 @@ a {
 .header a, .introduction .text-secondary {
   color: #e5e7eb;
   font-size: 18px;
+  font-weight: 100;
 }
 
 .text-button h1 {
   font-size: 48px;
-  font-weight: 1000;
+  font-weight: 900;
   margin: 0
 }
