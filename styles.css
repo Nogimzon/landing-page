@@ -33,7 +33,11 @@ a {
   font-weight: 800;
 }
 
-.header a, .introduction .text {
+.introduction {
+  display: flex;
+}
+
+.header a, .introduction .text-secondary {
   color: #e5e7eb;
   font-size: 18px;
 }
