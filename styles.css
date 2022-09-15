@@ -37,6 +37,7 @@ a {
 .introduction {
   display: flex;
   margin-top: 100px;
+  flex-wrap: wrap;
 }
 
 .header a, .introduction .text-secondary {
@@ -49,6 +50,7 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  flex: 1;
 }
 
 .text-button-container .text-primary {
@@ -65,6 +67,6 @@ a {
   padding: 6px 24px;
 }
 
-.img-wrapper {
-  flex: 0 1 auto;
+.introduction img {
+  flex: 1;
 }
