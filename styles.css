@@ -22,7 +22,7 @@ a {
 }
 
 .hero {
-  padding: 24px 150px 48px 150px;
+  padding: 24px 260px 100px 260px;
 }
 
 .header {
@@ -41,16 +41,9 @@ a {
 }
 
 .header a, .introduction .text-secondary {
-  color: #e5e7eb;
+  color: #b9babc;
   font-size: 18px;
   font-weight: 100;
-}
-
-.text-button-container {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  flex: 1;
 }
 
 .text-button-container .text-primary {
@@ -58,6 +51,13 @@ a {
   font-size: 48px;
   font-weight: 900;
   margin: 0;
+}
+
+.text-button-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 1;
 }
 
 .text-button-container button {
