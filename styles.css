@@ -54,12 +54,14 @@ a {
 }
 
 .text-button-container .text-primary {
+  color: #f9faf8;
   font-size: 48px;
   font-weight: 900;
   margin: 0;
 }
 
 .text-button-container button {
+  color: #f9faf8;
   background-color: #00ADB5;
   border: 1px solid #00ADB5;
   border-radius: 4px;
