@@ -60,8 +60,8 @@ a {
 .text-button button {
   background-color: #00ADB5;
   border: 1px solid #00ADB5;
-  width: 60px;
   border-radius: 4px;
+  margin-right: auto;
 }
 
 .img-wrapper {
