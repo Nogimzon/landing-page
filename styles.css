@@ -45,19 +45,19 @@ a {
   font-weight: 100;
 }
 
-.text-button {
+.text-button-container {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
 
-.text-button h1 {
+.text-button-container .text-primary {
   font-size: 48px;
   font-weight: 900;
   margin: 0;
 }
 
-.text-button button {
+.text-button-container button {
   background-color: #00ADB5;
   border: 1px solid #00ADB5;
   border-radius: 4px;
