@@ -69,6 +69,12 @@ a {
   padding: 6px 24px;
 }
 
-.introduction img {
+.wrapper  {
+  min-width: 300px;
   flex: 1;
+}
+
+.wrapper img {
+  width: 100%;
+  object-fit: fill;
 }
