@@ -73,12 +73,14 @@ a {
   padding: 6px 24px;
 }
 
+/* make wrapper same size as text-button container,
+but not smaller than 300px */
 .wrapper  {
   min-width: 300px;
   flex: 1;
 }
 
+/* make sure the img doesn't overflow the wrapper */
 .wrapper img {
   width: 100%;
-  object-fit: fill;
 }
