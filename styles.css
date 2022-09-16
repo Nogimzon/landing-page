@@ -60,7 +60,7 @@ a {
 .text-button-container {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-around;
   flex: 1;
 }
 
