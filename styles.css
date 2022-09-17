@@ -23,7 +23,7 @@ a {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 24px 0 96px 0;
+  padding: 12px 0 96px 0;
 }
 
 .header {
