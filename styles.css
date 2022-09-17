@@ -155,4 +155,9 @@ but not smaller than 300px */
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: #db9d0d;
+  border: 1px solid #db9d0d;
+  border-radius: 4px;
+  padding: 24px 72px;
+  margin: 48px 0;
 }
