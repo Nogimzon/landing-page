@@ -162,3 +162,24 @@ but not smaller than 300px */
   margin: 48px 0;
   gap: 96px;
 }
+
+.call-to-action-section {
+  color: rgb(249, 250, 248);
+}
+
+.text .main-text {
+  font-size: 18px;
+  font-weight: 900;
+}
+
+.text .sub-text {
+  font-size: 12px;
+}
+
+.container button {
+  background-color: #db9d0d;
+  color: rgb(249, 250, 248);
+  border: 1px solid rgb(249, 250, 248);
+  border-radius: 6px;
+  padding: 6px 24px;
+}
