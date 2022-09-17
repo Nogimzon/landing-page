@@ -97,4 +97,9 @@ but not smaller than 300px */
 .cards-container {
   display: flex;
   justify-content: center;
+  gap: 48px;
+}
+
+.card {
+  max-width: 200px;
 }
