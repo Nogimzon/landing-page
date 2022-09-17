@@ -150,3 +150,9 @@ but not smaller than 300px */
   justify-content: center;
   align-items: center;
 }
+
+.call-to-action-section .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
