@@ -16,6 +16,8 @@ a {
   text-decoration: none;
 }
 
+
+
 .top-section {
   background-color: #222831;
   display: flex;
@@ -48,6 +50,10 @@ a {
   color: #b9babc;
   font-size: 18px;
   font-weight: 100;
+}
+
+.header a:hover {
+  color:#db9d0d
 }
 
 .text-button-container .text-primary {
