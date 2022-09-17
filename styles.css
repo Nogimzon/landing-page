@@ -144,3 +144,9 @@ but not smaller than 300px */
   text-align: end;
   font-weight: 800;
 }
+
+.call-to-action-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
