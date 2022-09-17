@@ -52,6 +52,7 @@ a {
 .introduction {
   display: flex;
   flex-wrap: wrap;
+  gap: 24px
 }
 
 .text-button-container {
@@ -94,10 +95,17 @@ but not smaller than 300px */
   text-align: center;
 }
 
+.info-header {
+  color: #1F2939;
+  font-size: 36px;
+  font-weight: 900;
+  margin: 32px 0;
+}
+
 .cards-container {
   display: flex;
   justify-content: center;
-  gap: 48px;
+  gap: 60px;
 }
 
 .card {
