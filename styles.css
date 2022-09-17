@@ -121,7 +121,8 @@ but not smaller than 300px */
   border-radius: 12px;
   width: 200px;
   height: 200px;
-  object-fit:cover
+  object-fit: cover;
+  margin-bottom: 8px;
 }
 
 .quote-section {
