@@ -183,3 +183,10 @@ but not smaller than 300px */
   border-radius: 6px;
   padding: 6px 24px;
 }
+
+.footer {
+  background-color: #222831;
+  color: rgb(249, 250, 248);
+  text-align: center;
+  padding: 24px 0;
+}
