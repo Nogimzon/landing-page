@@ -114,3 +114,8 @@ but not smaller than 300px */
 .card {
   max-width: 200px;
 }
+
+.card img {
+  border: 3px solid #db9d0d;
+  border-radius: 12px;
+}
