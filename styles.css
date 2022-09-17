@@ -16,8 +16,6 @@ a {
   text-decoration: none;
 }
 
-
-
 .top-section {
   background-color: #222831;
   display: flex;
@@ -36,16 +34,6 @@ a {
   font-weight: 800;
 }
 
-.hero {
-  width: 70%;
-  margin-top: 96px;
-}
-
-.introduction {
-  display: flex;
-  flex-wrap: wrap;
-}
-
 .header a, .introduction .text-secondary {
   color: #b9babc;
   font-size: 18px;
@@ -56,11 +44,14 @@ a {
   color:#db9d0d
 }
 
-.text-button-container .text-primary {
-  color: #f9faf8;
-  font-size: 48px;
-  font-weight: 900;
-  margin: 0;
+.hero {
+  width: 70%;
+  margin-top: 96px;
+}
+
+.introduction {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .text-button-container {
@@ -68,6 +59,13 @@ a {
   flex-direction: column;
   justify-content: space-around;
   flex: 1;
+}
+
+.text-button-container .text-primary {
+  color: #f9faf8;
+  font-size: 48px;
+  font-weight: 900;
+  margin: 0;
 }
 
 .text-button-container button {
@@ -90,4 +88,13 @@ but not smaller than 300px */
 /* make sure the img doesn't overflow the wrapper */
 .wrapper img {
   width: 100%;
+}
+
+.info-header, .cards-container {
+  text-align: center;
+}
+
+.cards-container {
+  display: flex;
+  justify-content: center;
 }
