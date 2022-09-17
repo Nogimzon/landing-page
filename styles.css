@@ -98,7 +98,7 @@ but not smaller than 300px */
 }
 
 .info-header {
-  color: #1F2939;
+  color: #1F2937;
   font-size: 36px;
   font-weight: 900;
   margin: 32px 0;
@@ -126,8 +126,21 @@ but not smaller than 300px */
 
 .quote-section {
   background-color: #EEEEEE;
+  color: #1F2937;
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 100px 0;
+}
+
+.quote-text {
+  text-align: center;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 100;
+}
+
+.quoted-person {
+  text-align: end;
+  font-weight: 800;
 }
